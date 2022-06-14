@@ -60,6 +60,8 @@ Disable Swap
 swapoff -a
 vi /etc/fstab and Comment the line with Swap Keyword
 
+kubeadm init (only on master node)
+
 
 Installing Pod Network using Calico network
 
